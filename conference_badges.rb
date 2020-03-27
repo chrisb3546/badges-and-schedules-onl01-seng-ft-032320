@@ -8,10 +8,10 @@ def badge_maker("Arel")
 end
 
 def batch_badge_creator(names)
-  names. each do |name|
-  "Hello, my name is #{name}.")
+  return names. each do |name|
+ ("Hello, my name is #{name}.")
   end
-  return conference_badges
 end
 
 
+batch_badge_creator(names)
