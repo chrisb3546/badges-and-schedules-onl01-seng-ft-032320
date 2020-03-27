@@ -24,7 +24,7 @@ end
 end
 
 def printer(attendees)
- attendees
+ attendees.map do 
 end
 
 
