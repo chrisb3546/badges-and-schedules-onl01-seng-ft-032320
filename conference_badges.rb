@@ -24,5 +24,5 @@ end
 end
 
 
-
+assign_rooms(names, i)
  batch_badge_creator(names)
