@@ -24,11 +24,11 @@ end
 end
 
 def printer(attendees)
-  batch_badge_creator(names)
-  assign_rooms(names)
+  batch_badge_creator
+  assign_rooms
 end
 
-printer(attendees)
+
 
 
 
