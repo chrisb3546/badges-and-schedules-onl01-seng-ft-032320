@@ -24,7 +24,7 @@ end
 end
 
 def printer(attendees)
- attendees.map.with_index(1) do |batch_badge_creator(names),assign_rooms(names) |
+ attendees.map do |batch_badge_creator(names),assign_rooms(names) |
 end
 end
 
