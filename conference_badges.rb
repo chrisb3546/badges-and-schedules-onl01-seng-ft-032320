@@ -24,7 +24,7 @@ end
 end
 
 def printer(attendees)
- attendees.map do |assign_rooms(names)|
+ attendees.map.with_index(1) do |name, i|
 end
 
 
