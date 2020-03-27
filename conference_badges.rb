@@ -10,11 +10,10 @@ end
 
 
 def batch_badge_creator(names)
- names.each do |name| 
-  puts "Hello, my name is #{name}."
- end
+ return "Hello, my name is #{names}."
 end
 
 
 
 batch_badge_creator(names)
+ batch_badge_creator(names)
