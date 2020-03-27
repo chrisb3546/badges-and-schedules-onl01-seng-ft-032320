@@ -8,8 +8,7 @@ def badge_maker("Arel")
 end
 
 def batch_badge_creator(names)
- names.each do |name|
- ("Hello, my name is #{name}.")
+ return 
   end
 end
 
