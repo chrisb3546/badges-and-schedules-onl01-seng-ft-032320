@@ -24,8 +24,8 @@ end
 end
 
 def printer(attendees)
- badges = batch_badge_creator(names)
- rooms = assign_rooms(names)
+ badges = batch_badge_creator
+ rooms = assign_rooms
  attendees.map do |badges, rooms|
 end
 end
