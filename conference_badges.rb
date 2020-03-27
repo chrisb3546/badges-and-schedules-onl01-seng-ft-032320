@@ -29,7 +29,7 @@ def printer(attendees)
  badges.map do  |badge| 
    puts badge
 end
-rooms.map.with_index do |room|
+rooms.map.with_index(1) do |room|
   puts room
 end
  
