@@ -19,7 +19,7 @@ end
 batch_badge_creator(names)
 
 def assign_rooms(names)
-  return 
+  return names.each
   
 
 
