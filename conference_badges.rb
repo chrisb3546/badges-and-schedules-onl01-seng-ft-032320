@@ -24,7 +24,7 @@ end
 end
 
 def printer(attendees)
- attendees.map do 
+ attendees.map do |assign_rooms(names)|
 end
 
 
