@@ -10,7 +10,7 @@ end
 
 
 def batch_badge_creator(names)
- return names.each do |name| puts "Hello, my name is #{name}."
+ return names.map do |name|  "Hello, my name is #{name}."
  end
 end
 
