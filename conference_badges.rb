@@ -8,7 +8,7 @@ def badge_maker("Arel")
 end
 
 def batch_badge_creator(names)
- return 
+ return "Hello, my name is #{names}."
   end
 end
 
