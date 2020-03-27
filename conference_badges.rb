@@ -15,5 +15,5 @@ end
 
 
 
-batch_badge_creator(names)
+
  batch_badge_creator(names)
