@@ -32,7 +32,7 @@ end
 
 end
  
- printer(badge)
+ printer(attendees)
 
 
  
