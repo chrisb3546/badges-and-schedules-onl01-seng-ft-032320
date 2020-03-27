@@ -26,7 +26,7 @@ end
 def printer(attendees)
  badges = batch_badge_creator(attendees)
  rooms = assign_rooms(attendees)
- puts badges.map.with_index(1) do  |badges, rooms|
+ puts badges.map do  |badges, rooms|
 end
 
 end
