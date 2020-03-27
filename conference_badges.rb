@@ -20,7 +20,8 @@ batch_badge_creator(names)
 
 def assign_rooms(names)
   return names.each.with_index(1) |i, name| "Hello, #{name}! You'll be assigned to room #{i}"
-  
+end
+end
 
 
 
