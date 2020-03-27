@@ -1,14 +1,4 @@
-# Write your code here.
-
-names = ["Edsger", "Ada", "Charles", "Alan",
-"Grace", "Linus","Matz"]
-
-def badge_maker(names)
-  return ("Hello, my name is #{"Arel"}.")
-end
-
-
-
+# Write your cod
 def batch_badge_creator(names)
  return names.map do |name|  "Hello, my name is #{name}."
  end
@@ -24,6 +14,16 @@ end
 end
 
 def printer
-  puts batch_badge_creator
+  puts batch_badge_creatore here.
+
+names = ["Edsger", "Ada", "Charles", "Alan",
+"Grace", "Linus","Matz"]
+
+def badge_maker(names)
+  return ("Hello, my name is #{"Arel"}.")
+end
+
+
+
 
  
