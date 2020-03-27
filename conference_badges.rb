@@ -19,7 +19,7 @@ end
 batch_badge_creator(names)
 
 def assign_rooms(names)
-  return names.map.with_index(1) do |name, i| "Hello, #{name}! You'll be assigned to room #{i}"
+  return names.map.with_index(1) do |name, i| "Hello, #{name}! You'll be assigned to room #{i}!"
 end
 end
 
